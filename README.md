@@ -1,8 +1,8 @@
-### zadanie 6
+### zadanie 7
 
-##### Nowa strona – „Strona kontaktowa”
+##### Delikatnie poprawmy wygląd „Hello World”
 Wymagania:
--Dostęp z index.html
-- Formularz z polami na imię, nazwisko, wybór płci, elementem <textarea> i przyciskiem
-zatwierdzającym
-- Formularz powinien po zatwierdzeniu wrócić na stronę index.html
+- załączmy zewnętrzny arkusz styli
+- tło lightblue dla selektora body
+- zmieńmy kolor tekstu paragrafów na pomarańczowy
+- rozmiar czcionki dla elementów <pre> na 10px
