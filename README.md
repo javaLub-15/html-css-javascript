@@ -1,6 +1,7 @@
-### zadanie 3
+### zadanie 4
 
-Rozbudujmy „Hello World”
-Popraw plik z zadania 2, tak aby zawierał dodatkowo:
-- element span z atrybutem style=”background-color: red”
-- oraz element div z atrybutem style=”background-color: green”
+Nowa strona – „Zdjęcie z opisem”
+Wymagania:
+- Dostęp przez link za strony „Hello World”
+- Wstaw zdjęcie
+- Wypunktuj co jest na zdjęciu
