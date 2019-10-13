@@ -1,0 +1,21 @@
+table {
+    border: 1px solid;
+    width: 80%;
+    alignment: center;
+}
+
+#identyfikator {
+    background-color: greenyellow;
+}
+
+.mojeKlasa {
+    color: aquamarine;
+}
+
+.mojeKlasa.drugaKlasa {
+    color: red;
+}
+
+[align='center'] {
+    font-size: larger;
+}
