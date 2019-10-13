@@ -1,9 +1,6 @@
-### zadanie 2
+### zadanie 3
 
 Rozbudujmy „Hello World”
-Dokument zgodny z HTML5. Niech zawiera:
-- Tytuł strony
-- W sekcji meta, słowa kluczowe oraz autora
-- Trzy różne nagłówki (h1 – h6)
-- Dwa akapity
-- Tekst wyróżniony na różny sposoby
+Popraw plik z zadania 2, tak aby zawierał dodatkowo:
+- element span z atrybutem style=”background-color: red”
+- oraz element div z atrybutem style=”background-color: green”
