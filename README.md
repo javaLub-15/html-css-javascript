@@ -1,3 +1,5 @@
-### zadanie 8
+### zadanie 9
 
-Sprawdźmy selektory w praktyce.
+Poprawmy wygląd stron z ćwiczeń HTML
+Zmiana wyglądu tekstu, dodanie tła - obraz, obramowania,
+stylowanie listy
