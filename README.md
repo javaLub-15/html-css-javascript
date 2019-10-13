@@ -1,7 +1,9 @@
-### zadanie 1
+### zadanie 2
 
-Stwórzmy “Hello world!”
-Wymagania:
-- kodowanie strony utf-8 (meta + zapis w formacie utf-8 bez
-bom),
-- określenie wersji html jako html5
+Rozbudujmy „Hello World”
+Dokument zgodny z HTML5. Niech zawiera:
+- Tytuł strony
+- W sekcji meta, słowa kluczowe oraz autora
+- Trzy różne nagłówki (h1 – h6)
+- Dwa akapity
+- Tekst wyróżniony na różny sposoby
