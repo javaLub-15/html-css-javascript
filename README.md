@@ -1,5 +1,5 @@
-### zadanie 9
+### zadanie 10
 
 Poprawmy wygląd stron z ćwiczeń HTML
-Zmiana wyglądu tekstu, dodanie tła - obraz, obramowania,
-stylowanie listy
+- Zmodyfikujmy wygląd linków dla „:hover”, „:visited”, „:active”.
+- Zmieńmy pierwszą literę paragrafów oraz co drugi element listy.

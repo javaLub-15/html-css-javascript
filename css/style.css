@@ -27,3 +27,33 @@ img {
     right: 450px;
     visibility: visible;
 }
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #4CAF50;
+}
+
+a:visited {
+    color: #a1a1a1;
+}
+
+a:active {
+    color: #cbcbcb;
+}
+
+a:hover {
+    margin-top: 5px;
+    margin-left: 2px;
+    font-weight: bold;
+}
+
+p:first-letter {
+    font-size: 45px;
+}
+
+li:nth-child(2) {
+    background-color: red;
+}
